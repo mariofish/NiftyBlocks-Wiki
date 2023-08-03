@@ -1,6 +1,6 @@
 title: NiftyBlocks Wiki
 author: Shmeggels
-mod: <a href="https://minecraft.curseforge.com/projects/niftyblocks">Curseforge</a>
+mod: [Curseforge][curseforge]
 description: > # this means to ignore newlines until "twitter_username:"
  NiftyBlocks is a creative and survival-friendly mod that adds in various materials, lawn flamingos, the nifty block, and much much more!
 
@@ -26,3 +26,6 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
+
+
+[curseforge]: https://minecraft.curseforge.com/projects/niftyblocks
